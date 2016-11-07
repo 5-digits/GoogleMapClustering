@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/nilax/Documents/Tutorials/Spaceo Tuoritals/Google map Clustering/GoogleMapClustering/library/src/main/assets"/><source path="/home/nilax/Documents/Tutorials/Spaceo Tuoritals/Google map Clustering/GoogleMapClustering/library/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/nilax/Documents/Tutorials/Spaceo Tuoritals/Google map Clustering/GoogleMapClustering/library/src/release/assets"/></dataSet></merger>
